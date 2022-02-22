@@ -2,9 +2,9 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Searosan/Mosia)
 
-<p align = "center"><a herf = "https://t.me/SHADIYObot" alt = "Zaid"><img src = "https://telegra.ph/file/455edb776c98f16b991fa.jpg" width = "900"></a></p>
+<p align = "center"><a herf = "https://t.me/Mosia_Mk_Bot" alt = "Zaid"><img src = "https://telegra.ph/file/ca230a69e939adcd3065f.jpg" width = "900"></a></p>
 
 <p align = "center">
 <a href = "https://python.org">
@@ -13,27 +13,27 @@
 </a>
 
 <p align = "center">
-<a href = "https://github.com/Itsunknown-12/Zaid-Robot">
+<a href = "https://github.com/Ribaj">
 <img src = "https://forthebadge.com/images/badges/open-source.svg">
 </p>
 </a>
 
-## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
+## ʀᴇᴘᴏ sᴛᴀᴛs  
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Yaamiin&repo=Shadiyo&theme=dark)
 
-## 🅓🅔🅟🅛🅞🅨
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/captainAbdisamad/TGN-Robot)
+## ᴅᴇᴘʟᴏʏ
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Searosan/Mosia)
 
 
-## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
+## ᴠᴇʀɪᴀʙᴀʟᴇs
 [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
 
-## 🆂🆄🅿🅿🅾🆁🆃
-[![Somalibots](https://img.shields.io/badge/Somali-Channel-red?style=for-the-badge&logo=telegram)](https://t.meSomalibots)</br></br>
-[![Zaid](https://img.shields.io/badge/Somali-Group-red?style=for-the-badge&logo=telegram)](https://t.me/Somalibots_help)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ekso_opp)
+## sᴜᴘᴘᴏʀᴛ
+[![Osmanibots](https://img.shields.io/badge/Osmani-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/osmanibots)</br></br>
+[![Ribaj](https://img.shields.io/badge/Osmani-Group-red?style=for-the-badge&logo=telegram)](https://t.me/osmanigroupbot)</br></br>
+[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ReallyRibaj)
 
-## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
+## ᴛʜᴀɴᴋs ғᴏʀ ᴄᴏᴅᴇs...
 
  - Saitama Robot - for Modules
  - Layla Bot - for Some Help modules
