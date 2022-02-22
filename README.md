@@ -19,14 +19,14 @@
 </a>
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs  
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Yaamiin&repo=Shadiyo&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Searosan&repo=Mosia&theme=dark)
 
 ## ᴅᴇᴘʟᴏʏ
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Searosan/Mosia)
 
 
 ## ᴠᴇʀɪᴀʙᴀʟᴇs
-[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
+[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Searosan/Mosia/blob/master/Configuration)
 
 ## sᴜᴘᴘᴏʀᴛ
 [![Osmanibots](https://img.shields.io/badge/Osmani-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/osmanibots)</br></br>
@@ -35,8 +35,8 @@
 
 ## ᴛʜᴀɴᴋs ғᴏʀ ᴄᴏᴅᴇs...
 
- - Saitama Robot - for Modules
- - Layla Bot - for Some Help modules
- - innexia - for some Button And Helps
+ - Osmani Robot - for Modules
+ - Mosia Bot - for Some Help modules
+ - Ribaj - for some Button And Helps
 
 
