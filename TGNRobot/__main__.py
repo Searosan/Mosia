@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 ʜɪ ɪ ᴀᴍ ᴍᴏsɪᴀ ᴍᴋ ʀᴏʙᴏᴛ, ᴡᴀxᴀᴀɴ ᴀʜᴀʏ ᴄᴀᴀᴡɪʏᴀʜᴀ ɢʀᴏᴜᴘs ᴋᴀ ᴡᴀxᴀ ᴀᴀɴ ᴀʜᴀʏ ʙᴏᴛ ᴛᴀʏᴏ sᴀʀᴇ ʟᴇʜ ᴅʜᴀᴍᴇᴇsᴛɪʀᴀɴᴀ ᴡᴀxᴀ ᴀᴀɴ ᴋᴀ sᴀʀᴇᴇʏᴀ ʙᴏᴛs ᴋᴀʟᴇ. Wᴀxᴀ ᴀᴀɴ ᴜ ᴅʜᴀᴍᴇsᴛɪʀᴀɴᴀʜᴀʏ sɪᴅɪɪ ʟᴀ ʀᴀʙᴀʏ. ʜᴀᴅᴀʙᴀ ɪɢᴜ ᴄᴀsᴜᴜᴍ ɢʀᴏᴜᴘ ᴋᴀᴀɢᴀ sɪ ᴀᴀɴ ᴋᴜᴜʟᴀ sʜᴀǫᴇᴇʏᴏ! Wɪxɪɪ ᴄᴀᴀ ᴡɪɴᴀᴀᴅ ᴀʜ` ʀᴀᴀᴄ➪ /help
- [❤](https://telegra.ph/file/fa02b31bcfc5b3dc3ac05.jpg)
+ [❤](https://telegra.ph/file/ca230a69e939adcd3065f.jpg)
 """
 
 buttons = [
@@ -102,14 +102,13 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Wᴀxᴀᴀᴅ  ᴅᴏᴏʀᴀɴ ᴋᴀʀᴛᴀ ᴏᴘᴛɪᴏɴsᴋᴀ ʜᴏᴏsᴇ, ᴀᴅɪɢᴏ ᴛᴀʙᴀɴᴀʏᴀ Bᴀᴛᴀɴᴀᴅᴀɴ..`
-Wɪxɪ ᴄᴀᴡɪɴᴀᴅ ᴅʜᴇᴇʀɪ ᴀʜ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘᴋᴀ ᴛᴀɢ [❤️](https://telegra.ph/file/be921c63c1e642204adb5.jpg)"""
+`ʜᴀʟᴋɴ  ᴋᴀ ᴅᴏᴏʀᴏ  ʙᴀᴅʜᴀɴᴋᴀ ᴀᴀᴅ ʀᴀʙᴛᴏ ɪɴᴀᴀ ᴡᴀx ᴋᴀ ᴏɢᴀᴀᴛᴏ ᴡɪxɪɪ ᴄᴀᴀᴡɪɴᴀᴀᴅ ᴀʜ ʟᴀ xᴀʀɪɪʀ [💙](https://telegra.ph/file/862b8aa19a0d2a58d91cc.jpg)"""
 
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [Lucifer](t.me/detctective_de) \
- Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/Zaid_updates) \
+ You can support the project [Manager](t.me/meribaj) \
+ Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/osmanibots) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -358,7 +357,7 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [SHADIYO Robot](t.me/SHADIYObot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [Mosia Mk Robot](t.me/Mosia_Mk_Bot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -366,8 +365,8 @@ def zaid_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_TGN's licensed under the GNU General Public License v3.0_
-                 \n❍ Assistant @TGN\_Assistant.
-                 \nHere is the [💾Repository](https://github.com/Itsunknown-12/TGN-Robot).
+                 \n❍ Assistant @mosiamk.
+                 \nHere is the [💾Follow](https://github.com/Ribaj).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -394,8 +393,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [Robot](t.me/SHADIYObot)
-                 \nHere is the [Source Code](https://github.com/Itsunknown-12/TGN-Robot) .""",
+            text=""" Hi..🤗 I am [Robot](t.me/Mosia_Mk_Bot)
+                 \nHere is the [Source Code](https://github.com/OsmaniPro) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
