@@ -194,7 +194,7 @@ def start(update: Update, context: CallbackContext):
                     update.effective_chat.id,
                     HELPABLE[mod].__help__,
                     InlineKeyboardMarkup(
-                        [[InlineKeyboardButton(text="⬅️ BACK", callback_data="help_back")]]
+                        [[InlineKeyboardButton(text="🔙 BACK", callback_data="help_back")]]
                     ),
                 )
 
@@ -366,7 +366,7 @@ def zaid_about_callback(update, context):
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_TGN's licensed under the GNU General Public License v3.0_
                  \n❍ Assistant @mosiamk.
-                 \nHere is the [💾Follow](https://github.com/Ribaj).
+                 \nHere is the [↪️Follow](https://github.com/Ribaj).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -440,7 +440,7 @@ def get_help(update: Update, context: CallbackContext):
             )
             return
         update.effective_message.reply_text(
-            "Contact me in PM to get the list of possible commands.",
+            "ila soo xidhiidh @ReallyRibaj si aad u hesho liiska amarrada suurtogalka ah.",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
@@ -625,7 +625,7 @@ def get_settings(update: Update, context: CallbackContext):
                 ),
             )
         else:
-            text = "Click here to check your settings."
+            text = "Riix halkan si aad u hubiso dejimahaaga."
 
     else:
         send_settings(chat.id, user.id, True)
@@ -658,11 +658,11 @@ def donate(update: Update, context: CallbackContext):
             )
 
             update.effective_message.reply_text(
-                "I've PM'ed you about donating to my creator!"
+                "Waxa aan ku siiyay wax ku saabsan wax ku tabaruca aniga abuurahayga!"
             )
         except Unauthorized:
             update.effective_message.reply_text(
-                "Contact me in PM first to get donation information."
+                "Ila soo xidhiidh @ReallyRibaj marka hore si aad u hesho macluumaadka deeqaha."
             )
 
 
@@ -689,10 +689,10 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Yes I'm alive 😹")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "ʜᴀ ᴡᴀᴀɴ ɴᴏᴏʟᴀʜᴀʏ 😹")
         except Unauthorized:
             LOGGER.warning(
-                "Bot isnt able to send message to support_chat, go and check!"
+                "Bot ma awoodo inuu fariin u diro support_chat, tag oo hubi Adiga Support ga!"
             )
         except BadRequest as e:
             LOGGER.warning(e.message)
