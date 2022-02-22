@@ -74,26 +74,25 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, Wᴀxᴀɴ ᴀʜᴀʏ Sʜᴀᴅɪʏᴏ
-`Wᴀxᴀɴ Kᴀ Cᴀᴡɪɴ Kᴀʀᴀ Mᴀᴀᴍᴜʟɪᴅᴀ Gʀᴏᴜᴘᴋᴀᴅᴀ WᴀxN ᴀʜᴀʏ ʙᴏᴛ Tᴀʏᴀᴅɪsᴀ ʜᴇᴇʀ sᴀʀᴇ Tᴀʜᴀʏ! Tᴀᴀʙᴏ` /help
+ʜɪ ɪ ᴀᴍ ᴍᴏsɪᴀ ᴍᴋ ʀᴏʙᴏᴛ, ᴡᴀxᴀᴀɴ ᴀʜᴀʏ ᴄᴀᴀᴡɪʏᴀʜᴀ ɢʀᴏᴜᴘs ᴋᴀ ᴡᴀxᴀ ᴀᴀɴ ᴀʜᴀʏ ʙᴏᴛ ᴛᴀʏᴏ sᴀʀᴇ ʟᴇʜ ᴅʜᴀᴍᴇᴇsᴛɪʀᴀɴᴀ ᴡᴀxᴀ ᴀᴀɴ ᴋᴀ sᴀʀᴇᴇʏᴀ ʙᴏᴛs ᴋᴀʟᴇ. Wᴀxᴀ ᴀᴀɴ ᴜ ᴅʜᴀᴍᴇsᴛɪʀᴀɴᴀʜᴀʏ sɪᴅɪɪ ʟᴀ ʀᴀʙᴀʏ. ʜᴀᴅᴀʙᴀ ɪɢᴜ ᴄᴀsᴜᴜᴍ ɢʀᴏᴜᴘ ᴋᴀᴀɢᴀ sɪ ᴀᴀɴ ᴋᴜᴜʟᴀ sʜᴀǫᴇᴇʏᴏ! Wɪxɪɪ ᴄᴀᴀ ᴡɪɴᴀᴀᴅ ᴀʜ` ʀᴀᴀᴄ➪ /help
  [❤](https://telegra.ph/file/fa02b31bcfc5b3dc3ac05.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ Sʜᴀᴅɪʏᴏ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SHADIYObot?startgroup=true"),
+            text="«ᴀᴅᴅ ᴍᴏsɪᴀ ᴍᴋ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ»", url="t.me/Mosia_Mk_Bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ɪᴅɪʀɪsᴋᴀ ɴᴏ ᴛᴀʙᴏ💫", url=f"https://t.me/Somalibots"),
+        InlineKeyboardButton(text="✓sᴜᴘᴘᴏʀᴛ🇸🇴", url=f"https://t.me/osmanigroupbot"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="ᴄʜᴀɴɴᴇʟ 📢", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="Nɪɴᴋᴀ😈 Bᴏᴛᴋᴀ Lᴇʜ 💜", url=f"https://t.me/AttackTor"),
+        InlineKeyboardButton(text="😎ʀᴇᴀʟ ᴏᴡɴᴇʀ😎", url=f"https://t.me/ribajosmani"),
         InlineKeyboardButton(
-            text="💎Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ📶", url=f"https://t.me/Somaliprogrammer"
+            text="💎Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ💡", url=f"https://t.me/ReallyRibaj"
         ),
     ],
     [
